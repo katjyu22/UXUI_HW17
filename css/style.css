@@ -55,7 +55,7 @@ body{
 /* About Me page */
 .aboutMEcontent{
     width: 550px;
-    margin: 150px 100px;
+    margin: 150px 100px 0 ;
 }
 #aboutMe{
     font-family: 'Raleway', sans-serif;
@@ -71,7 +71,7 @@ h2{
     letter-spacing: 3px;
 }
 .button{
-    background-color: #D9B7A7;
+    background-color: #996C5A;
     color: white;
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
@@ -83,7 +83,7 @@ h2{
 
 }
 .button:hover{
-    background-color: #C39079;
+    background-color: #AD8A7B;
 }
 #puzzle{
     width: 100px;
